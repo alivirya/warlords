@@ -2,15 +2,16 @@
 
 ### What is this repository for? ###
 
-* Warlords, group 25
+* Warlords
 
 ### To run the game ###
 
 * If you know what to do, the main class is in GameStage.java in the view package, otheriwse see below:
 
-* Run Eclipse Java and set the workspace to the parent folder containing "uoa-cs302-2017-group-25"
+* Clone this git repository
+* Run Eclipse Java and set the workspace to the parent folder containing "warlords"
 * Go file > import then under 'general' choose "Import existing project into workspace". 
-* Under "Select root directory" choose the "uoa-cs302-2017-group-25" folder and click OK, then Finish
+* Under "Select root directory" choose the "warlords" folder and click OK, then Finish
 * Expand the project on the explorer on the left hand side, then expand 'src'
 * Expand the view Package and right click on the "GameStage" and click: 
 		Run As > Run Configurations
@@ -91,9 +92,3 @@
 - PLAYER 2
 	* Situated in the bottom right. "W" and "S" move your ship in an L shape around the island.
 	* If you die and Ghosting is enabled, the  "W, A, S, D" can be used to influence the ball speed.
-
-### Other ###
-
-* The report is under "report.pdf" in this directory
-* The submission table is under "Project-A-Final-Submission-Table.docx" in this directory
-* The powerpoint slides are under "slides.pptx" in this directory
